@@ -1,3 +1,3 @@
-#hello_pdfmake
+# hello-pdfmake
 
-hollo pdfname solution illustrating usage 
+Hello worl examle how to use Pdfmake js lib
